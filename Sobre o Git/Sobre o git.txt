@@ -1,0 +1,8 @@
+O git é um sistema de versões distribuído, usado principalmente no desenvolvimento de softwares. 
+
+Principais comandos:
+
+git status
+git init
+git commit -m ""
+git push origin main
